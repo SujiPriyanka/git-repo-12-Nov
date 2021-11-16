@@ -1,2 +1,2 @@
 This is my first devops file
-changes made by git
+modified by both users
